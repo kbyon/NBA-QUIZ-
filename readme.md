@@ -76,5 +76,5 @@ python client.py
 
 
 ## Contact
-Your Name - youremail@example.com
+Your Name - NBAquiz35@gmail.com
 
